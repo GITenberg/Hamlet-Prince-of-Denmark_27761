@@ -1,0 +1,47 @@
+_repo: Hamlet-Prince-of-Denmark_27761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editor:
+    agent_name: Kean, Charles John
+    deathdate: 1868
+    gutenberg_agent_id: '4539'
+    url: http://www.gutenberg.org/2009/agents/4539
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kean
+description: A tragic drama about a young prince attempting to avenge his father's
+  murder. His uncle has seduced Hamlet's mother, killed his father, and usurped his
+  claim to the crown. Hamlet's melancholic, irresolute temperament, however, inhibits
+  decisive action and contributes to more calamities.
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcsh 'Murder victims'' families -- Drama'
+- !lcsh 'Princes -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Fathers -- Death -- Drama'
+title: Hamlet, Prince of Denmark
+url: http://www.gutenberg.org/ebooks/27761
